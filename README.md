@@ -2,7 +2,7 @@
 
 **B.S. Cybersecurity, Southern Utah University 2025**  
 Location: El Monte, CA | Target Role: SOC Analyst (Tier 1)
-Email: emmanuel.guillen.cybr@gmail.com | LinkedIn: linkedin.com/in/emmanuel-guillen-cybr
+Email: emmanuel.guillen.cybr@gmail.com | LinkedIn: https://linkedin.com/in/emmanuel-guillen-cybr
 
 ---
 
@@ -10,7 +10,7 @@ Email: emmanuel.guillen.cybr@gmail.com | LinkedIn: linkedin.com/in/emmanuel-guil
 
 31 independent lab writeups built over four years of hands-on coursework and self-directed study. Every writeup follows the same format: overview, environment, walkthrough with real commands and output, skills demonstrated, and references. No filler. No theory-only labs.
 
-The labs were filtered -- anything that didn't demonstrate a real, deployable security skill was cut. What's here reflects what I can actually do.
+The labs were filtered, anything that didn't demonstrate a real, deployable security skill was cut. What's here reflects what I can actually do.
 
 ---
 
