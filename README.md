@@ -49,7 +49,7 @@ security-portfolio/
 
 These are the labs that best demonstrate day-one SOC analyst skills.
 
-### Blue Team - Start Here
+### Blue Team
 | Writeup | What It Shows |
 |---|---|
 | [Sysmon Endpoint Monitoring](blue-team/sysmon-endpoint-monitoring.md) | Deployed and tuned Sysmon with custom XML config; hunted threats via Event IDs 1, 22, 23, 4624/4625 |
@@ -77,7 +77,7 @@ These are the labs that best demonstrate day-one SOC analyst skills.
 
 ## Certifications
 
-- CompTIA Security+ - In Progress (Expected May 2026)
+- CompTIA Security+ - In Progress (Expected August 2026)
 - B.S. Cybersecurity - Southern Utah University, 2025 - GPA: 3.6
 
 ---
