@@ -1,7 +1,7 @@
 # Emmanuel Guillen - Security Portfolio
 
 **B.S. Cybersecurity, Southern Utah University 2025**  
-Location: El Monte, CA | Target Role: SOC Analyst (Tier 1)
+Location: El Monte, CA | Target Role:  Help Desk / IT Support → Cybersecurity (SOC Analyst track)
 Email: emmanuel.guillen.cybr@gmail.com | LinkedIn: https://linkedin.com/in/emmanuel-guillen-cybr
 
 ---
@@ -84,7 +84,7 @@ These are the labs that best demonstrate day-one SOC analyst skills.
 
 ## Capstone: Covert Operations Network Security Framework
 
-Envision Solutions / SUU - April 2025
+Envision Solutions / SUU - April 2025 - a simulated RFP response exercise designing a theoretical covert comms system to hypothetical intelligence-community specifications.
 
 Designed Phantom, a custom E2EE covert communications app built to CIA field operation specifications. Key components:
 
