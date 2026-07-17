@@ -77,7 +77,7 @@ These are the labs that best demonstrate day-one SOC analyst skills.
 
 ## Certifications
 
-- CompTIA Security+ - In Progress (Expected August 2026)
+- CompTIA Security+ - In Progress (Expected October 2026)
 - B.S. Cybersecurity - Southern Utah University, 2025 - GPA: 3.6
 
 ---
