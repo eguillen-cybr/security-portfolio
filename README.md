@@ -58,7 +58,7 @@ These are the labs that best demonstrate day-one SOC analyst skills.
 | [Threat Intelligence Analysis](blue-team/threat-intelligence-tram-mitre-attack-mapping.md) | Mapped Lazarus Group, BlackEnergy, GrassCall TTPs to MITRE ATT&CK; identified detection opportunities |
 | [Volatile Evidence Collection](blue-team/volatile-evidence-collection-magnet-velociraptor-kape.md) | Live memory acquisition with MAGNET; Velociraptor triage scripts; KAPE targeting MFT, Prefetch, SRUM, Event Logs |
 | [RAM Forensics - Volatility](blue-team/ram-forensics-volatility.md) | Process analysis, malware detection (malfind), command history, privilege inspection against memory images |
-| [Network Forensics](blue-team/network-forensics.md) | PCAP analysis with Wireshark and NetworkMiner; credential extraction; file carving from captured sessions |
+| [Network Forensics](blue-team/network-forensics-networkminer-wireshark.md) | PCAP analysis with Wireshark and NetworkMiner; credential extraction; file carving from captured sessions |
 
 ### Red Team
 | Writeup | What It Shows |
