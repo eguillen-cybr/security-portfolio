@@ -38,7 +38,7 @@ The labs were filtered, anything that didn't demonstrate a real, deployable secu
 security-portfolio/
 ├── red-team/               # 10 writeups - offensive ops, OSINT, exploitation
 ├── blue-team/              # 21 writeups - detection, forensics, hardening, threat intel
-├── incident-response/      # 2 writeups - IR playbooks, CSIRT design (Sovereign)
+├── incident-response/      # 3 writeups - IR playbooks, CSIRT design (Sovereign), enterprise security governance policy
 ├── malware-analysis/       # 2 writeups  - binary payloads, trojaning, AV evasion
 └── capstone/               # CIA-spec covert communications framework (RFP-CIA-073)
 ```
