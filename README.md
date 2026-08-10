@@ -70,7 +70,7 @@ These are the labs that best demonstrate day-one SOC analyst skills.
 ### Incident Response
 | Writeup | What It Shows |
 |---|---|
-| [IR Playbooks - Sovereign](incident-response/ir-playbooks-sovereign.md) | 5 NIST SP 800-61r2 playbooks: ransomware, insider threat, DDoS, exfiltration, phishing |
+| [IR Playbooks - Sovereign](incident-response/incident-response-playbooks.md) | 5 NIST SP 800-61r2 playbooks: ransomware, insider threat, DDoS, exfiltration, phishing |
 | [CSIRT Design - Sovereign](incident-response/csirt-design-sovereign.md) | Role definitions, escalation matrix, communication protocols, tabletop exercise design |
 
 ---
