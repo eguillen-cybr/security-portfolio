@@ -65,7 +65,7 @@ These are the labs that best demonstrate day-one SOC analyst skills.
 |---|---|
 | [Metasploit and EternalBlue](red-team/metasploit-basics-eternalblue-meterpreter.md) | MS17-010 exploitation; Meterpreter post-exploitation (hashdump, keylogging, remote shell) |
 | [OSINT and Intelligence Gathering](red-team/osint-intelligence-gathering-workday-pagerduty.md) | Passive recon with Shodan, SecurityTrails, theHarvester; CVE cross-referencing |
-| [Web Application Hacking](red-team/web-application-hacking.md) | OWASP Juice Shop via Burp Suite; SQLi, broken access control, cryptographic failures |
+| [Web Application Hacking](red-team/web-hacking-burpsuite-juiceshop.md) | OWASP Juice Shop via Burp Suite; SQLi, broken access control, cryptographic failures |
 
 ### Incident Response
 | Writeup | What It Shows |
