@@ -8,7 +8,7 @@ Email: emmanuel.guillen.cybr@gmail.com | LinkedIn: https://linkedin.com/in/emman
 
 ## About This Portfolio
 
-31 independent lab writeups built over four years of hands-on coursework and self-directed study. Every writeup follows the same format: overview, environment, walkthrough with real commands and output, skills demonstrated, and references. No filler. No theory-only labs.
+30+ independent lab writeups built over four years of hands-on coursework and self-directed study. Every writeup follows the same format: overview, environment, walkthrough with real commands and output, skills demonstrated, and references. No filler. No theory-only labs.
 
 The labs were filtered, anything that didn't demonstrate a real, deployable security skill was cut. What's here reflects what I can actually do.
 
@@ -36,7 +36,7 @@ The labs were filtered, anything that didn't demonstrate a real, deployable secu
 
 ```
 security-portfolio/
-├── red-team/               # 8 writeups - offensive ops, OSINT, exploitation
+├── red-team/               # 10 writeups - offensive ops, OSINT, exploitation
 ├── blue-team/              # 21 writeups - detection, forensics, hardening, threat intel
 ├── incident-response/      # 2 writeups - IR playbooks, CSIRT design (Sovereign)
 ├── malware-analysis/       # 1 writeup  - binary payloads, trojaning, AV evasion
