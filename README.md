@@ -39,7 +39,7 @@ security-portfolio/
 ├── red-team/               # 10 writeups - offensive ops, OSINT, exploitation
 ├── blue-team/              # 21 writeups - detection, forensics, hardening, threat intel
 ├── incident-response/      # 2 writeups - IR playbooks, CSIRT design (Sovereign)
-├── malware-analysis/       # 1 writeup  - binary payloads, trojaning, AV evasion
+├── malware-analysis/       # 2 writeups  - binary payloads, trojaning, AV evasion
 └── capstone/               # CIA-spec covert communications framework (RFP-CIA-073)
 ```
 
