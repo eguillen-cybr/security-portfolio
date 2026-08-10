@@ -8,7 +8,7 @@ Email: emmanuel.guillen.cybr@gmail.com | LinkedIn: https://linkedin.com/in/emman
 
 ## About This Portfolio
 
-30+ independent lab writeups built over four years of hands-on coursework and self-directed study. Every writeup follows the same format: overview, environment, walkthrough with real commands and output, skills demonstrated, and references. No filler. No theory-only labs.
+36 independent lab writeups, plus a graduate capstone project built over four years of hands-on coursework and self-directed study. Every writeup follows the same format: overview, environment, walkthrough with real commands and output, skills demonstrated, and references. No filler. No theory-only labs.
 
 The labs were filtered, anything that didn't demonstrate a real, deployable security skill was cut. What's here reflects what I can actually do.
 
