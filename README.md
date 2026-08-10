@@ -52,7 +52,7 @@ These are the labs that best demonstrate day-one SOC analyst skills.
 ### Blue Team
 | Writeup | What It Shows |
 |---|---|
-| [Sysmon Endpoint Monitoring](blue-team/sysmon-endpoint-monitoring.md) | Deployed and tuned Sysmon with custom XML config; hunted threats via Event IDs 1, 22, 23, 4624/4625 |
+| [Sysmon Endpoint Monitoring](blue-team/sysmon-windows-endpoint-monitoring.md) | Deployed and tuned Sysmon with custom XML config; hunted threats via Event IDs 1, 22, 23, 4624/4625 |
 | [IDPS - Suricata on IPFire](blue-team/idps-suricata-ipfire.md) | Deployed Suricata with emerging-scan.rules; DNS TLD monitoring, compromised IP alerting, false positive methodology |
 | [TheHive Case Management](blue-team/thehive-case-management.md) | TheHive 5.0 + Cortex analyzers (Maltiverse, TeamCymru, CyberCrime-Tracker) for structured incident case management |
 | [Threat Intelligence Analysis](blue-team/threat-intelligence-analysis.md) | Mapped Lazarus Group, BlackEnergy, GrassCall TTPs to MITRE ATT&CK; identified detection opportunities |
